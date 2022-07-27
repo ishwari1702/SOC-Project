@@ -25,3 +25,4 @@ Week - 6
 Report and code submission
 
 Simultaneuosly as I learned the things I implemented the it and wrote the code
+Data for the project was taken from kaggeel
